@@ -1,1 +1,3 @@
 # Ecommerce-Sales-Dashboard
+
+Developed an interactive Power BI dashboard to track and analyze ecommerce sales performance. The dashboard features dynamic filters, slicers, and user-driven parameters to enable deep insights into sales trends, customer behavior, and product performance. Leveraged complex data modeling, including relationships, calculated columns, and DAX measures, to create meaningful KPIs. Utilized a variety of custom visualizations—such as bar charts, pie charts, line graphs, scatter plots, area charts, and maps—to deliver clear, actionable insights. Designed for enhanced user interactivity with drill-down capabilities and responsive visual components.
